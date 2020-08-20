@@ -1,5 +1,5 @@
 module Faker
-  class Theatre
+  class TvShows
     class Musicals < Base
       flexible :musicals
 

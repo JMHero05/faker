@@ -1,5 +1,5 @@
 module Faker
-  class Theatre
+  class TvShows
     class Plays < Base
       flexible :plays
 
