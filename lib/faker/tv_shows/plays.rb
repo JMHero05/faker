@@ -1,14 +1,14 @@
-module Faker
-  class TvShows
-    class Plays < Base
-      flexible :plays
+# module Faker
+#   class TvShows
+#     class Plays < Base
+#       flexible :plays
 
-      class << self
+#       class << self
 
-        def title
-          fetch('plays.title')
-        end
-      end
-    end
-  end
-end
+#         def title
+#           fetch('plays.title')
+#         end
+#       end
+#     end
+#   end
+# end
