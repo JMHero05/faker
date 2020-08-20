@@ -6,7 +6,7 @@ module Faker
       class << self
 
         def title
-          fetch(‘plays.title’)
+          fetch('plays.title')
         end
       end
     end
